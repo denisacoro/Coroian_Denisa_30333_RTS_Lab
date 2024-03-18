@@ -27,4 +27,11 @@ public class Fir extends Thread {
 
         while(c<1000){
 
-            for(int j=0;j<this.processorLoad;j++){ j++;j--; } c++; this.win.setProgressValue(id, c); } } }
+            for(int j=0;j<this.processorLoad;j++){
+                j++;j--;
+            }
+            c++;
+            this.win.setProgressValue(id, c);
+        }
+    }
+}
