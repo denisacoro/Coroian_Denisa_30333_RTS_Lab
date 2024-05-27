@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\LabSession2\\Example3\\Main.java||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LabSession2\\Example3\\Main.java||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\Labsession1\\ex3\\RandomNumberGenerator.java||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Labsession1\\ex3\\RandomNumberGenerator.java||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\LabSession2\\Example3\\JoinTestThread.java||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LabSession2\\Example3\\JoinTestThread.java||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\Labsession1\\ex1\\ComplexNumber.java||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Labsession1\\ex1\\ComplexNumber.java||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\Labsession1\\ex1\\ComplexCalculator.java||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Labsession1\\ex1\\ComplexCalculator.java||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\LabSession2\\App1\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LabSession2\\App1\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\Main.java||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Main.java||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 214,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RandomNumberGenerator.java",
+              "DocumentMoniker": "E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\Labsession1\\ex3\\RandomNumberGenerator.java",
+              "RelativeDocumentMoniker": "Labsession1\\ex3\\RandomNumberGenerator.java",
+              "ToolTip": "E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\Labsession1\\ex3\\RandomNumberGenerator.java",
+              "RelativeToolTip": "Labsession1\\ex3\\RandomNumberGenerator.java",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2024-04-01T09:21:12.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComplexNumber.java",
+              "DocumentMoniker": "E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\Labsession1\\ex1\\ComplexNumber.java",
+              "RelativeDocumentMoniker": "Labsession1\\ex1\\ComplexNumber.java",
+              "ToolTip": "E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\Labsession1\\ex1\\ComplexNumber.java",
+              "RelativeToolTip": "Labsession1\\ex1\\ComplexNumber.java",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2024-04-01T09:18:44.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComplexCalculator.java",
+              "DocumentMoniker": "E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\Labsession1\\ex1\\ComplexCalculator.java",
+              "RelativeDocumentMoniker": "Labsession1\\ex1\\ComplexCalculator.java",
+              "ToolTip": "E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\Labsession1\\ex1\\ComplexCalculator.java",
+              "RelativeToolTip": "Labsession1\\ex1\\ComplexCalculator.java",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2024-04-01T09:18:42.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.java",
+              "DocumentMoniker": "E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\Main.java",
+              "RelativeDocumentMoniker": "Main.java",
+              "ToolTip": "E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\Main.java",
+              "RelativeToolTip": "Main.java",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2024-04-01T09:18:35.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.java",
+              "DocumentMoniker": "E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\LabSession2\\Example3\\Main.java",
+              "RelativeDocumentMoniker": "LabSession2\\Example3\\Main.java",
+              "ToolTip": "E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\LabSession2\\Example3\\Main.java",
+              "RelativeToolTip": "LabSession2\\Example3\\Main.java",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2024-04-01T09:18:20.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JoinTestThread.java",
+              "DocumentMoniker": "E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\LabSession2\\Example3\\JoinTestThread.java",
+              "RelativeDocumentMoniker": "LabSession2\\Example3\\JoinTestThread.java",
+              "ToolTip": "E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\LabSession2\\Example3\\JoinTestThread.java",
+              "RelativeToolTip": "LabSession2\\Example3\\JoinTestThread.java",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2024-04-01T09:18:16.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\LabSession2\\App1\\Class1.cs",
+              "RelativeDocumentMoniker": "LabSession2\\App1\\Class1.cs",
+              "ToolTip": "E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\LabSession2\\App1\\Class1.cs",
+              "RelativeToolTip": "LabSession2\\App1\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:18:13.757Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
