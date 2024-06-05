@@ -2,7 +2,8 @@ package App1example;
 
 import java.util.concurrent.Semaphore;
 class Fir extends Thread {
-    int name, delay, k, permit;
+    int name, delay, k //random number in the specific interval
+    , permit;
     Semaphore s;
     Fir(int n, Semaphore sa, int delay, int k, int permit) {
         this.name = n;
