@@ -19,7 +19,7 @@ public class Main {
 
         int[] generationRates = new int[4];
         try {
-            Files.lines(Paths.get("src/LabSession4/Lab5/App4/config.txt")).forEach(line -> {
+            Files.lines(Paths.get("E:\\Faculta\\an-3-sem-2\\RTS\\labs\\Coroian_Denisa_30333_RTS_Lab\\Coroian_Denisa_30333_RTS_Lab\\Project\\src\\LabSession4\\LabSession4\\src\\App4Lab5")).forEach(line -> {
                 String[] parts = line.split("=");
                 switch (parts[0]) {
                     case "NORTH":
